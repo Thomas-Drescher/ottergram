@@ -130,6 +130,8 @@ a {
 }
 
 @media all and (orientation: landscape) {
+
+  /*Rule sets for when device is held horizontally. */
   .main-content {
     flex-direction: row;
     overflow: hidden;
